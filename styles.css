@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+    font-size: 32px;
+    color: aliceblue;
+}
+
+body{
+    background-color: yellow;
+    
+}
+
+.pai{
+    background-color: green;
+    
+}
+
+.filha{
+    background-color: blue;
+    
+}
